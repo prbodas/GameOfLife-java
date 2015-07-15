@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment1.params=e
+comment1.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment10.params=
+comment10.target=int[][]\ generateLifeArray()
+comment2.params=e
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=e
+comment4.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment5.params=e
+comment5.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment6.params=g
+comment6.target=void\ paintComponent(java.awt.Graphics)
+comment7.params=e
+comment7.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=ad
+comment9.target=void\ showLifeOnScreen(int[][])
+numComments=11
